@@ -10,17 +10,18 @@ I enjoy turning slow, repetitive work into small tools that finish it in seconds
 - Next on my path: HTML & CSS → JavaScript → React
 
 ## Tools
-**Using:** Python · Microsoft Excel · PowerPoint · Word · Git & GitHub · Unreal Engine 5  
-**Learning:** pandas · openpyxl · HTML & CSS
+**Using:** Python · pandas · openpyxl · Microsoft Excel · PowerPoint · Word · Git & GitHub · Unreal Engine 5  
+**Learning:** HTML & CSS
 
 ## Projects
 ### 🎮 [Sword Arena](https://github.com/mohammedmahdi-dev/sword-arena)
 A third-person sword combat game made with **Unreal Engine 5**: combos, a charged slash and moving targets in a photoscanned nature arena.
 **[Download for Windows](https://github.com/mohammedmahdi-dev/sword-arena/releases/latest)** and play, no engine needed.
 
+### 📊 [Excel Merger](https://github.com/mohammedmahdi-dev/excel-merger)
+A Python tool that merges every Excel file in a folder into one clean file, with a column showing where each row came from. Built with **pandas**.
+
 ### Coming soon
-Each with a clear README, sample data and steps to run it:
-- **Excel Merger**: combines every Excel file in a folder into one clean file
 - **Excel Cleaner**: removes duplicates, extra spaces and broken dates
 - **Personal website**: my portfolio page, built with HTML & CSS
 
